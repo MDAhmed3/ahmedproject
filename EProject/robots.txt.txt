@@ -1,0 +1,28 @@
+User-agent: ahrefsbot
+Disallow: /
+
+User-agent: checkmarknetwork
+Disallow: /
+
+User-agent: *
+Disallow: /EProject-a/
+Disallow: /EProject-b/
+Disallow: /page/
+Disallow: /ar/
+Disallow: /inc/
+Disallow: /symbol/
+Disallow: /EN/ar/
+Disallow: /EN/EProject-a/
+Disallow: /EN/EProject-b/
+Disallow: /recruiters/
+Disallow: /beta45/
+Disallow: /demo45/
+Disallow: /beta45qa/
+Disallow: /demo45qa/
+Disallow: /hiring/
+Disallow: /people/
+
+sitemap: https://Std1388807.aptech-students.com
+/EProject/sitemap_index.xml
+sitemap: https://Std1388807.aptech-students.com
+/EProject/sitemap_index-ur.xml
